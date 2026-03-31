@@ -80,10 +80,10 @@ Conecta con el backend: POST http://localhost:3000/query
 
 ## ▶️ Cómo ejecutar
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
-App disponible en: App disponible en:
+App disponible en:
 
 
 ## Código del backend
